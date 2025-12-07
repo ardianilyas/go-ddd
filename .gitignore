@@ -1,0 +1,30 @@
+# Go binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+.env*
+
+# Build output
+bin/
+build/
+
+# Go workspace
+go.work
+go.work.sum
+
+# Vendor deps (opsional)
+vendor/
+
+# Logs & temp files
+*.log
+*.tmp
+*.out
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
