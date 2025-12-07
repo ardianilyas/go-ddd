@@ -6,7 +6,7 @@
 *.dylib
 *.test
 
-.env*
+.env
 
 # Build output
 bin/
